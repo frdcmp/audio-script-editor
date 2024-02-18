@@ -1,0 +1,9 @@
+streamlit
+pandas
+pydub
+natsort
+openpyxl
+python-docx
+chardet
+nltk
+xlsxwriter
